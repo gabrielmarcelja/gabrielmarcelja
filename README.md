@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @gabrielmarcelja
-- 👀 I’m interested in web development
+- 👀 I’m interested in Web Development and Blockchain
